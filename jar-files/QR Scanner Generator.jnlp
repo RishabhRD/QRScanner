@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="QR Scanner Generator.jnlp">
+  <information>
+    <title>QR Scanner Generator</title>
+    <vendor>Rishabh Dwivedi</vendor>
+    <description>QRScanner</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="QRScanner.jar" size="93227" download="eager" />
+    <jar href="libs/core-3.3.3.jar" size="543115" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="application.Main"  name="QRScanner" />
+  <update check="background"/>
+</jnlp>
