@@ -13,3 +13,6 @@ For Mac and Windows :
 You can use jar file.
 
 Thier executables will be uploaded in next version.
+
+#Important
+You must have all files in stored in jar-files directory to use the Jar. That folder will act as installation folder for your application.
